@@ -1,5 +1,5 @@
 # 💫 About Me:
-Pre-final year ECE student<br>passionate about VLSI, Embedded Systems,<br>and Digital Electronics. <br>Vice President of the IETE Student Forum <br>with experience in technical events, leadership, <br>and hands-on electronics projects. <br>Currently exploring VLSI design, embedded programming, <br>and industrial automation technologies.
+Final year ECE student<br>passionate about Embedded Systems, IoT<br>and Digital Electronics. <br>Vice President of the IETE Student Forum <br>with experience in technical events, leadership, <br>and hands-on electronics projects. <br>Currently exploring IoT Technologies, Embedded C Programming, <br>and industrial automation technologies.
 
 
 ## 🌐 Socials:
