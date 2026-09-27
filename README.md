@@ -11,9 +11,9 @@ Final year ECE student<br>passionate about Embedded Systems, IoT<br>and Digital 
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=mrsumityaduwanshi7869&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=mrsumityaduwanshi7869&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mrsumityaduwanshi786&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=mrsumityaduwanshi7869-lang&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=mrsumityaduwanshi7869-lang&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=mrsumityaduwanshi786-lang&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ---
